@@ -24,6 +24,8 @@ BEM的意思就是块（block）、元素（element）、修饰符（modifier）
 - M（modifier）：某个元素或者某个块的状态，比如：.nav--hide, .nav__item--open 等。
 
 ## 举个栗子
+- block__element：block 里的元素，如：nav（block）里的 a 标签（element）；
+- block__element--modifier：block 里的元素的状态、属性或修饰，如：nav 里的 a 标签，有 active、hover、normal 3 种状态（modifier）。
 HTML：
 ```html
 <nav class="nav">
