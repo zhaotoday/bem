@@ -8,10 +8,7 @@ BEM的意思就是块（block）、元素（element）、修饰符（modifier）
 .block__element {}
 .block--modifier {}
 ```
-- .block 代表了更高级别的抽象或组件。
-- .block__element 代表.block的后代，用于形成一个完整的.block的整体。
-- .block--modifier代表.block的不同状态或不同版本。
-> 之所以使用两个连字符和下划线而不是一个，是为了让 block 可以用单个连字符来界定，如：
+之所以使用两个连字符和下划线而不是一个，是为了让 block 可以用单个连字符来界定，如：
 ```css
 .site-search {} /* 块 */
 .site-search__field {} /* 元素 */
