@@ -44,7 +44,7 @@ BEM的意思就是块（block）、元素（element）、修饰符（modifier）
 ## 总结
 - B（block）：某一块展示/功能区域，比如：.nav。
 - E（element）：这块展示/功能区域里的某个元素，比如: .nav__item。
-- M（modifier）：某个元素或者某个块的状态，比如：.nav--hide, .nav__item--open 等。
+- M（modifier）：某个元素或者某个块的状态，比如：.nav--hide, .nav__item--active 等。
 
 ## 参考
 - [BEM 命名规范](http://www.qianduan.org/post-458.html)
