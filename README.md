@@ -27,8 +27,8 @@ BEM的意思就是块（block）、元素（element）、修饰符（modifier）
 HTML：
 ```html
 <nav class="nav">
-  <a href="#" class="nav__item nav__item--active">当前</a>
-  <a href="#" class="nav__item nav__item--hover">鼠标移上</a>
+  <a href="#" class="nav__item nav__item--active">当前状态</a>
+  <a href="#" class="nav__item nav__item--hover">鼠标移上时的状态</a>
   <a href="#" class="nav__item nav__item--normal">正常状态</a>
 </nav>
 ```
@@ -45,3 +45,7 @@ SASS：
   }
 }
 ```
+
+## 参考
+- [BEM 命名规范](http://www.qianduan.org/post-458.html)
+- [CSS命名方式=》BEM](https://github.com/zhongxia245/blog/issues/48)
