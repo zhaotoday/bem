@@ -1,6 +1,6 @@
 ## 简介
 BEM的意思就是块（block）、元素（element）、修饰符（modifier）,是由Yandex团队提出的一种前端命名方法论。这种巧妙的命名方法让你的CSS类对其他开发者来说更加透明而且更有意义。BEM命名约定更加严格，而且包含更多的信息，它们用于一个团队开发一个耗时的大项目。
-> 重要的是要注意，我使用的基于BEM的命名方式是经过Nicolas Gallagher修改过的。
+> 重要的是要注意，这里使用的基于BEM的命名方式是经过Nicolas Gallagher修改过的。
 
 ## 命名约定
 ```css
@@ -17,11 +17,6 @@ BEM的意思就是块（block）、元素（element）、修饰符（modifier）
 .site-search__field {} /* 元素 */
 .site-search--full {} /* 修饰符 */
 ```
-
-## 总结
-- B（block）：某一块展示/功能区域，比如：.nav。
-- E（element）：这块展示/功能区域里的某个元素，比如: .nav__item。
-- M（modifier）：某个元素或者某个块的状态，比如：.nav--hide, .nav__item--open 等。
 
 ## 举个栗子
 - block__element：block 里的元素，如：nav（block）里的 a 标签（element）；
@@ -45,6 +40,11 @@ BEM的意思就是块（block）、元素（element）、修饰符（modifier）
   }
 }
 ```
+
+## 总结
+- B（block）：某一块展示/功能区域，比如：.nav。
+- E（element）：这块展示/功能区域里的某个元素，比如: .nav__item。
+- M（modifier）：某个元素或者某个块的状态，比如：.nav--hide, .nav__item--open 等。
 
 ## 参考
 - [BEM 命名规范](http://www.qianduan.org/post-458.html)
