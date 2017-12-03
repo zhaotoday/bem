@@ -48,3 +48,6 @@ BEM 的意思就是块（block）、元素（element）、修饰符（modifier�
 - [CSS命名方式=》BEM](https://github.com/zhongxia245/blog/issues/48)
 - [BEM 快速入门](https://github.com/woai30231/webDevDetails/tree/master/15)
 - [BEM Quick Start](https://en.bem.info/methodology/quick-start/)
+- [和BEM的战斗：10个常见问题及如何避免](https://segmentfault.com/a/1190000006135647)
+- [决战BEM, 10个常见问题及其解决方案](https://zhuanlan.zhihu.com/p/26407119?group_id=837593211068362752)
+- [BEM实战分享](http://v.youku.com/v_show/id_XMjcwMzczNjkxNg==.html?spm=a2h3j.8428770.3416059.1)
