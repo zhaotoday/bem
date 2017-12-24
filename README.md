@@ -39,7 +39,7 @@ BEM 的意思就是块（block）、元素（element）、修饰符（modifier�
 ```
 
 ## 命名空间
-可以参考 BlazeUI 的命名规范：https://github.com/BlazeUI/blaze。
+可以参考 `BlazeUI` 的命名规范：https://github.com/BlazeUI/blaze 。
 - o-：表示一个对象（Object），如 .o-layout。
 - c-：表示一个组件（Component），指一个具体的、特定实现的 UI。如 .c-avatar。
 - u-：表示一个通用工具（Utility），如 .u-hidden。
