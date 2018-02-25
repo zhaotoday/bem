@@ -66,4 +66,5 @@ BEM 的意思就是块（block）、元素（element）、修饰符（modifier�
 - [Sensible CSS Guidelines for large scale projects](https://github.com/chris-pearce/css-guidelines)
 - [BEM方法论](http://www.zcfy.cc/article/faq-methodology-bem-3145.html)
 - [［翻译］更透明的 UI 代码和命名空间](http://zangbianxuegu.farbox.com/post/fan-yi-geng-tou-ming-de-ui-dai-ma-he-ming-ming-kong-jian)
+- [[译]这些 CSS 命名规范将省下你大把调试时间](https://juejin.im/post/5a6c5881518825733201daf7)
 - [CSS Guidelines](https://github.com/chris-pearce/css-guidelines)
