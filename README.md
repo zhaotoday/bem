@@ -49,7 +49,7 @@ BEM 的意思就是块（block）、元素（element）、修饰符（modifier�
 - _：表示一个 hack，如 ._important。
 - js-：表示一个 JavaScript 钩子。如 .js-modal。
 - qa-：表示测试钩子。
-我们团队新增了自己的一些规范，仅供参考：
+> 我们团队新增了自己的一些规范，仅供参考：
 - p-：表示一个页面（page），.p-home。
 - b-：表示页面内的块（block），如 .b-content。
 - cc-：表示组件内的组件，该组件样式仅在父组件作用域下有效，如 .cc-list。
