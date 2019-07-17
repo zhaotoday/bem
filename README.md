@@ -48,16 +48,15 @@ BEM 的意思就是块（block）、元素（element）、修饰符（modifier�
 - is-，has-：表示一种状态或条件样式。如 .is-active
 - _：表示一个 hack，如 ._important。
 - js-：表示一个 JavaScript 钩子。如 .js-modal。
-- qa-：表示测试钩子。
-> 我们团队新增了自己的一些规范，仅供参考：
-- p-：表示一个页面（page），.p-home。
-- b-：表示页面内的块（block），如 .b-content。
+- qa-：表示测试钩子。  
+我们团队新增了自己的一些规范，仅供参考：
+- p-：表示一个页面（page），如 .p-home。
+- b-：表示页面（page）内的块（block），如 .b-content。
 - cc-：表示组件内的组件，该组件样式仅在父组件作用域下有效，如 .cc-list。
 - c{xxx}：表示颜色，如 .c1。
 - bgc{xxx}：表示背景色，如 .bgc1。
 - bdc{xxx}：表示边框颜色，如 .bdc1。
 - fs{xxx}：表示字体大小，如 .fs24。
-
 
 ## 总结
 - B（block）：某一块展示/功能区域，比如：.nav。
